@@ -8,3 +8,6 @@ URLDecrypt is used via command line:
 
 **NOTE:** MODIFY THE SECTION OF:
 `API_KEY = 'YOUR API KEY'` In the code
+
+- `🪟` py URLDecrypt.py
+- `🐧` python3 URLDecrypt.py
