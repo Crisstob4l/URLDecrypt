@@ -7,4 +7,4 @@ URLDecrypt is used via command line:
 - `URLDecrypt + URL to scan` -> Starts scanning the URL
 
 **NOTE:** MODIFY THE SECTION OF:
-`API_KEY = 'YOUR API KEY'`
+`API_KEY = 'YOUR API KEY'` In the code
